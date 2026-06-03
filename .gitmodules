@@ -1,0 +1,12 @@
+[submodule "hyprland"]
+	path = hyprland
+	url = git@github.com:roblescristian4722/hyprland.git
+[submodule "rofi"]
+	path = rofi
+	url = git@github.com:roblescristian4722/rofi.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:roblescristian4722/nvim.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:roblescristian4722/zsh.git
